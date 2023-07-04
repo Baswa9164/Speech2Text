@@ -10,3 +10,6 @@
 
 HTML,CSS,JAVASCRIPT,JQUERY And Speech Recognition Webkit 
 
+You can view it on my replit link
+
+https://stunningsnarlingmemwatch.20bec011basawa.repl.co
